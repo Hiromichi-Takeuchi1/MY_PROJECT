@@ -1,5 +1,3 @@
-// console.log(JSいれたよ);
-
 function daysRemainingInYear(dateString) {
     // 任意の日付を解析（入力がない場合は今日の日付を使用）
     let currentDate = dateString ? new Date(dateString) : new Date();
